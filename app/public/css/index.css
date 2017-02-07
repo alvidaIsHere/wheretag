@@ -1,0 +1,32 @@
+#map_canvas{
+    height: 70vh;
+    width: 55vw;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#messages{
+    height: 70vh;
+    width: 40vw;
+    overflow-y: scroll;
+}
+
+h2{
+    margin-left: 10px;
+}
+
+.borderblack{
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
+}
+
+#search{
+    margin-left: 50px;
+    margin-top: 10px;
+
+    /*padding: 10px;*/
+}
+#title{
+    margin-left: 5px;
+}
+
