@@ -12,4 +12,4 @@ b. WhereTag application published dockerhub or github
 6. Use Putty to open up TCP connection and
 a. Install Docker into Ubuntu machine from the scale set
 b. Install and run the published WhereTag application by mapping port 80 to port 3000
-7. The end.
+7. The end
