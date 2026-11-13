@@ -6,7 +6,7 @@
 FROM ubuntu
 
 # File Author / Maintainer
-MAINTAINER Elvin P
+MAINTAINER Elvin Pra
 
 # Install basic applications
 RUN apt-get update 
