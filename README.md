@@ -1,5 +1,5 @@
 # wheretag
-WhereTag (WT) is an application that make use of twitter API to generate heat map based on live stream of tweets which has been geo-tagged all over the world. The heat map interface is provided by Google Javascript API. On top of that, WT also allows user to do sentiment analysis based on the user input keyword. The result of the sentiment analysis will be categorized into positive or negative tweets depending on the text of the tweets. These results will then be displayed to users in the form of pie chart, generated using Chart.js library. Bootstrap framework is also used to ensure a clean and professional looking interface.
+WhereTag (WT) is an application that make use of twitter (now X) API to generate heat map based on live stream of tweets which has been geo-tagged all over the world. The heat map interface is provided by Google Javascript API. On top of that, WT also allows user to do sentiment analysis based on the user input keyword. The result of the sentiment analysis will be categorized into positive or negative tweets depending on the text of the tweets. These results will then be displayed to users in the form of pie chart, generated using Chart.js library. Bootstrap framework is also used to ensure a clean and professional looking interface.
 
 # Deployment instruction
 1. Prerequisite:
