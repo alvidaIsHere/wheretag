@@ -11,7 +11,7 @@ var port = 3000;
 
 //Setup twitter stream api
 
-const twitterConsumerKey = 'k9vj43jysLuwBjoRz8kD6arbg';
+const twitterConsumerKey = 'k9vj43jysLuwBjoRz8kD6arbg'; //need update
 const twitterConsumerSecret = '7Go3XKmOyEUrKUg6kuCtUMKMAA7smjml0X6dgvGFXIhUY2EFIG';
 const twitterAccessTokenKey = '97582745-PBnQw98SHHQf94gz1kvJedG8lmMExweRO0CUKyo1x';
 const twitterAccessTokenSecret = 'C7WRC5XKOInyOcq2zrfvR8RsI4qd3974gdPIPpDdOLKx3';
